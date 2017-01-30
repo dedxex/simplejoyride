@@ -198,7 +198,7 @@ export default class Demo extends React.Component {
 
         </div>
         <main>
-          <a href="#start" className="hero__start" onClick={this.handleClickStart}>Lets Go!</a>
+          <a href="#start" className="hero__start" onClick={this.handleClickStart}>Start tutorial</a>
 
         </main>
       </div>
